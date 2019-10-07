@@ -14,6 +14,12 @@ public class Main {
 
 
         //todo initialize
+        System.out.println("This is Magic 8 Ball");
+        System.out.println("What is your question?");
+        question = keyboard.nextLine();
+        System.out.println("Give me a number");
+        number = keyboard.nextDouble();
+
 
 
         //todo conditional
