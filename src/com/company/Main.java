@@ -9,6 +9,8 @@ public class Main {
         //todo declare variable
         Scanner keyboard;
         keyboard = new Scanner(System.in);
+        String question;
+        double number;
 
 
         //todo initialize
